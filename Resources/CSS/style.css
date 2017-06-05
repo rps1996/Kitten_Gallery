@@ -1,0 +1,85 @@
+body {
+
+  text-align: center;
+  background-image: url("http://images.all-free-download.com/images/graphicthumb/a_huge_collection_of_soccer_balls_vector_569253.jpg");
+  font-family: Ubuntu;
+  color: white;
+
+
+
+}
+
+img {
+
+  height: 200px;
+  width: 270px;
+
+
+}
+
+.header {
+
+  background-color: black;
+  width: 50%;
+  margin: 10px auto;
+  border: 5px solid white;
+  border-radius: 10px;
+
+
+
+}
+.card {
+
+  height: 300px;
+  width: 275px;
+  border: 2px white solid;
+  border-radius: 5px;
+  background-color: black;
+
+
+}
+
+.striker {
+
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.forwards {
+
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.midfield {
+
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.defense {
+
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 30px;
+
+
+  }
+
+  .goalie {
+
+      display: flex;
+      justify-content: center;
+      margin: 30px 30px;
+
+
+    }
